@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Me First.md",
+                "file": "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read Me First"
+              "title": "PJ-20261029 - Good Journal Entry"
             }
           }
         ]
@@ -155,12 +155,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
             "id": "a97b9409a0ff7701",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
+            }
+          },
+          {
+            "id": "5b12b9683b4b7190",
             "type": "leaf",
             "state": {
               "type": "annotations-outline",
@@ -170,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -191,35 +201,35 @@
   },
   "active": "b7984349bb03fa5a",
   "lastOpenFiles": [
-    "01. Student Guide/1. Project Journal/About Project Journal.md",
+    "01. Student Guide/2. Project Proposal/PP-07 Resources.md",
+    "01. Student Guide/2. Project Proposal/PP-06 Timeline.md",
+    "01. Student Guide/2. Project Proposal/PP-05 Methodology.md",
+    "01. Student Guide/2. Project Proposal/PP-04 Deliverables.md",
+    "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
+    "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
+    "02. My Portfolio/1. Project Journal/PJ-20251029 - Journal Entry 2.md",
+    "02. My Portfolio/1. Project Journal/PJ-2026 02 13 - Journal Entry 1.md",
+    "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
+    "01. Student Guide/1. Project Journal/PJ-20251029 - Bad Journal Entry.md",
+    "01. Student Guide/3. Application Design/AD-02 Data Flow Diagrams.md",
+    "01. Student Guide/3. Application Design/AD-01 Story Boards.md",
+    "01. Student Guide/2. Project Proposal/PP-08 Budget.md",
+    "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
+    "01. Student Guide/2. Project Proposal/PP-03 Proposed Solution.md",
+    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
+    "02. My Portfolio/2. Project Proposal/PP-01 Executive Summary.md",
+    "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
+    "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
+    "01. Student Guide/2. Project Proposal/About Project Proposal.md",
     "Read Me First.md",
+    "01. Student Guide/1. Project Journal/About Project Journal.md",
     "01. Student Guide/4. Application Implementation/About Application Implementation.md",
     "02. My Portfolio/4. Application Implementation/CR-20251126 - Code Review Report Template.md",
     "02. My Portfolio/4. Application Implementation/AI-01 Code Repository.md",
     "01. Student Guide/4. Application Implementation/CR-20251126 - Good Code Review Report.md",
-    "01. Student Guide/4. Application Implementation/CR-20251126 - Bad Code Review Report.md",
-    "01. Student Guide/4. Application Implementation/AI-01 Code Repository.md",
-    "01. Student Guide/1. Project Journal/PJ-20251029 - Bad Journal Entry.md",
-    "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
-    "02. My Portfolio/1. Project Journal/PJ-20251029 - Journal Entry Template.md",
-    "Assessment Task Notification.md",
-    "Assessment.md",
-    "01. Student Guide/0. General/Study Resources.md",
-    "01. Student Guide/0. General/Syllabus Content.md",
-    "01. Student Guide/5. Application Testing/About Application Testing.md",
-    "01. Student Guide/5. Application Testing/AT-TC-010 - Forgotten Password.md",
-    "01. Student Guide/5. Application Testing/AT-TC-001 - Valid Login.md",
-    "02. My Portfolio/5. Application Testing/AT-TR - Test Report Template.md",
-    "01. Student Guide/5. Application Testing/AT-TR - 20251125.md",
-    "02. My Portfolio/5. Application Testing/AT-TC-000 - Test Case Template.md",
-    "01. Student Guide/2. Project Proposal/About Project Proposal.md",
-    "01. Student Guide/3. Application Design/About Application Design.md",
     "01. Student Guide/4. Application Implementation/PWA Architecture.png",
     "Pasted image 20251125115436.png",
     "01. Student Guide/5. Application Testing",
-    "01. Student Guide/3. Application Design/AD-01 Story Boards.md",
-    "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
-    "01. Student Guide/3. Application Design/AD-07 Class Diagrams.md",
     "01. Student Guide/4. Application Implementation",
     "01. Student Guide/3. Application Design/Transaction Management UML Class Diagram.png",
     "01. Student Guide/3. Application Design/Categorise Transactions Flow Chart.png",

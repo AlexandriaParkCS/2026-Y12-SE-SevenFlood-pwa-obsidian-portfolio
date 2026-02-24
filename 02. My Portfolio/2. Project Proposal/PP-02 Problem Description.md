@@ -1,1 +1,3 @@
-...
+Traditional coffee loyalty programs commonly use physical punch cards to reward repeat customers. While simple, this system presents several issues for both customers and businesses. Customers frequently lose, forget, or damage their loyalty cards, resulting in frustration and reduced engagement. Additionally, physical cards do not provide any way for users to track their progress digitally, and they require customers to return to the same physical card to redeem rewards.
+
+For businesses, paper loyalty cards create recurring printing costs and offer limited data tracking capabilities. They also contribute to unnecessary paper waste, raising environmental concerns. Furthermore, physical systems are vulnerable to fraud, such as manual stamp manipulation, and lack secure authentication processes.
