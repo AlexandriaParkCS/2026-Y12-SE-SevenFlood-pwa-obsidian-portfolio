@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a177b401d8094c05",
+        "id": "126ba4e4872e29e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b7984349bb03fa5a",
+            "id": "21a7b0d24f9d6689",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot 2026-03-06 114931.png"
               },
-              "icon": "lucide-file",
-              "title": "PJ-20261029 - Good Journal Entry"
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-03-06 114931"
             }
           }
         ]
@@ -34,19 +32,6 @@
         "id": "31b74da36d6a1f6a",
         "type": "tabs",
         "children": [
-          {
-            "id": "2a69ea5e28302557",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "6f2a893e0ebb0156",
             "type": "leaf",
@@ -73,12 +58,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9478adc0d2be4960",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "4252a763d1280327",
@@ -141,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "Screenshot 2026-03-06 114931.png",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Screenshot 2026-03-06 114931"
             }
           },
           {
@@ -155,8 +155,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,53 +199,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7984349bb03fa5a",
+  "active": "21a7b0d24f9d6689",
   "lastOpenFiles": [
-    "01. Student Guide/2. Project Proposal/PP-07 Resources.md",
-    "01. Student Guide/2. Project Proposal/PP-06 Timeline.md",
-    "01. Student Guide/2. Project Proposal/PP-05 Methodology.md",
-    "01. Student Guide/2. Project Proposal/PP-04 Deliverables.md",
-    "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
-    "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
-    "02. My Portfolio/1. Project Journal/PJ-20251029 - Journal Entry 2.md",
-    "02. My Portfolio/1. Project Journal/PJ-2026 02 13 - Journal Entry 1.md",
-    "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
-    "01. Student Guide/1. Project Journal/PJ-20251029 - Bad Journal Entry.md",
-    "01. Student Guide/3. Application Design/AD-02 Data Flow Diagrams.md",
-    "01. Student Guide/3. Application Design/AD-01 Story Boards.md",
-    "01. Student Guide/2. Project Proposal/PP-08 Budget.md",
-    "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
-    "01. Student Guide/2. Project Proposal/PP-03 Proposed Solution.md",
-    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
-    "02. My Portfolio/2. Project Proposal/PP-01 Executive Summary.md",
-    "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
-    "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
-    "01. Student Guide/2. Project Proposal/About Project Proposal.md",
     "Read Me First.md",
-    "01. Student Guide/1. Project Journal/About Project Journal.md",
-    "01. Student Guide/4. Application Implementation/About Application Implementation.md",
+    "Screenshot 2026-03-06 114931.png",
+    "2026-05-08.md",
+    "02. My Portfolio/Portfolio Evidence Checklist.md",
+    "02. My Portfolio/5. Application Testing/AT-TR - Test Report Template.md",
+    "02. My Portfolio/5. Application Testing/AT-TC-000 - Test Case Template.md",
     "02. My Portfolio/4. Application Implementation/CR-20251126 - Code Review Report Template.md",
     "02. My Portfolio/4. Application Implementation/AI-01 Code Repository.md",
-    "01. Student Guide/4. Application Implementation/CR-20251126 - Good Code Review Report.md",
+    "02. My Portfolio/3. Application Design/AD-07 Class Diagrams.md",
+    "02. My Portfolio/3. Application Design/AD-06 Data Dictionary.md",
+    "02. My Portfolio/3. Application Design/AD-05 Entity Relationship Diagrams.md",
+    "02. My Portfolio/3. Application Design/AD-04 Input Process Output Charts.md",
+    "02. My Portfolio/3. Application Design/AD-03 Structure Chart.md",
+    "02. My Portfolio/3. Application Design/AD-02 Data Flow Diagrams.md",
+    "02. My Portfolio/3. Application Design/AD-01 Story Boards.md",
+    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
+    "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
+    "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
+    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
+    "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
+    "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
+    "02. My Portfolio/2. Project Proposal/PP-01 Executive Summary.md",
+    "02. My Portfolio/1. Project Journal/PJ-2026 02 13 - Journal Entry 1.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Untitled.md",
+    "01. Student Guide/3. Application Design/AD-03 Structure Chart.md",
+    "01. Student Guide/3. Application Design/BudgetWise DFD Level 0.png",
+    "01. Student Guide/3. Application Design/BudgetWise DFD Level 1.png",
     "01. Student Guide/4. Application Implementation/PWA Architecture.png",
     "Pasted image 20251125115436.png",
     "01. Student Guide/5. Application Testing",
     "01. Student Guide/4. Application Implementation",
     "01. Student Guide/3. Application Design/Transaction Management UML Class Diagram.png",
     "01. Student Guide/3. Application Design/Categorise Transactions Flow Chart.png",
-    "01. Student Guide/3. Application Design/BudgetWise DFD Level 0.png",
     "01. Student Guide/3. Application Design/BudgetWise ERD.png",
     "01. Student Guide/3. Application Design/Sign Up Story Board.drawio.png",
     "01. Student Guide/3. Application Design/Sign Up Story Board.png",
-    "01. Student Guide/3. Application Design/Generate Dashboard Structure Chart.png",
-    "01. Student Guide/3. Application Design/BudgetWise DFD Level 1.png",
     "01. Student Guide/3. Application Design",
     "02. My Portfolio/4. Application Implementation",
     "01. Student Guide/3. Producing and Implementing",
-    "01. Portfolio Guide/3. Producing and Implementinf",
-    "01. Student Guide/2. Project Proposal",
-    "01. Student Guide/1. Project Journal",
-    "01. Student Guide/0. General",
-    "01. Student Guide/4. Testing and Evaluation"
+    "01. Portfolio Guide/3. Producing and Implementinf"
   ]
 }
